@@ -15,8 +15,9 @@
 
 ![](new_chapter_without_file.jpg)
 
-
-
+対象のファイルが存在しないので、クリックすると新規に作成するか聞いてきた。先にTOCを作ってから埋めていくこともできるんだ。
 
 
 ![](create_chapter3.jpg)
+
+サジェストされているファイル名が`chapter3md.md`なので、先に
