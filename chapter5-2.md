@@ -12,7 +12,6 @@
 - Pull Request
 - 他サービスとのHook連携
 - gitリポジトリのViewer
-- リリース
 - マイルストーン
 
 ※ Issueにあたるものは`gitbook.com`でもdiscussionがある
