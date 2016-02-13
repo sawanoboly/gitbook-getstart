@@ -29,5 +29,11 @@
 * [First Chapter](chapter1.md)
 ```
 
-おそらくGitBook上で公開する場合のTOCはこれが使われるのだと推測、編集しよう。
+おそらくGitBook上で公開する場合のTOCはこれが使われるのだと推測、次のように編集した。
 
+```
+# Summary
+
+* [まず俺は間違っていた](chapter1.md)
+* [チャプターを追加＆TOCのタイトルを変えたい](chapter2.md)
+```
