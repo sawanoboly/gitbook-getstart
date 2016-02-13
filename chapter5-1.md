@@ -18,6 +18,7 @@
 
 ![](gitbook_editor_local.jpg)
 
-
+早速この本を同期してローカルで開いてみる。
 
 ![](editor_diff.jpg)
+
