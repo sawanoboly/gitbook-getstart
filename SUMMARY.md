@@ -8,5 +8,5 @@
 * [履歴が大変なことに](chapter4.md)
 * [探れ！ローカル編集](chapter5md.md)
    * [アプリで編集してみよう！](chapter5-1.md)
-   * Githubにエクスポートして同期してみよう！
+   * Githubにエクスポートして同期してみよう！(chapter5-2)
 
