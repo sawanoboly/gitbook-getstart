@@ -21,7 +21,9 @@
 
 ファイル一覧を観察すると、`SUMMARY.md`というファイルがある。怪しい。
 
-```
+内容を確認する。
+
+```SUMMARY.md
 # Summary
 
 * [First Chapter](chapter1.md)
