@@ -11,8 +11,10 @@
 
 - Pull Request
 - gitリポジトリのViewer
+- リリース
+- マイルストーン
 
-Issueにあたるものはgitbook.com
+Issueにあたるものは`gitbook.com`でもdiscussionがある
 
 
 ## Githubにエクスポートする
