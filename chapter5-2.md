@@ -10,11 +10,14 @@
 `gitbook.com`になくてgithubだけにあり、連携したほうが良い場合に使うもの。
 
 - Pull Request
+- 他サービスとのHook連携
 - gitリポジトリのViewer
 - リリース
 - マイルストーン
 
 ※ Issueにあたるものは`gitbook.com`でもdiscussionがある
+
+この中でも、まあやっぱりプルリクエストだよね。多分それと同じくらいでサービス連携がくるかな。
 
 
 
