@@ -36,5 +36,6 @@ Githubのインポーターに遷移するので、項目を埋めてcloneしよ
 
 ![](github_repo01.jpg)
 
+## エクスポートしたリポジトリと、あらためて連携を作る
 
 ![](gitbook_in-exp.jpg)
