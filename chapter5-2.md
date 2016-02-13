@@ -21,7 +21,7 @@ Issueにあたるものは`gitbook.com`でもdiscussionがある
 
 設定画面からGithubの項目を選ぶと、エクスポートと連携設定ができる。ひとまずエクスポートだ。
 
-Githubのインポーターに遷移するので、項目を埋めてcloneしよう。
+Githubのインポーターに遷移するので、項目を埋めてcloneしよう。クローン時にはgitbook側のアカウント情報を入力する必要がある。
 
 ![](github_impoter.jpg)
 
