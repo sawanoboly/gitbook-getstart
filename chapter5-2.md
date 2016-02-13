@@ -59,3 +59,5 @@ Githubのインポーターに遷移するので、項目を埋めてcloneしよ
 
 ![](update_from_online_editor.jpg)
 
+## ローカルのエディタは別の取得先と認識、新規に同期へ
+
