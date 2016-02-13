@@ -18,3 +18,4 @@
 Book(プロジェクト)の管理画面には、Githubと連携する設定がある。
 
 ![](github_exporter2.jpg)
+
