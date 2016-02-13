@@ -82,3 +82,7 @@ Githubのインポーターに遷移するので、項目を埋めてcloneしよ
 ![](new_branch.jpg)
 
 おしたら`git push origin pull_req`になるんだろう、押すぞ。
+
+...
+
+`Publish`は押しても何も起こらなかった。。。
