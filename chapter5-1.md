@@ -10,8 +10,9 @@
 
 アプリの役割は大きく3つ。
 
-- gitbookプロジェクトのフロントエンド
+- gitbookプロジェクト管理のフロントエンド
 - `gitbook.com`との同期
+- Web版と同じエディタ
 
 ![](gitbook_editor_local.jpg)
 
