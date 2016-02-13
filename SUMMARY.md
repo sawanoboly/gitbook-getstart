@@ -6,5 +6,5 @@
 * [見出しでツリー](chapter3.md)
    * [子チャプターA](chapter3-1.md)
 * [履歴が大変なことに](chapter4.md)
-* [探れ！ローカル編集](chapter5.md)
+* [探れ！ローカル編集](chapter5md.md)
 
