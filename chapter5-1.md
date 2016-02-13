@@ -8,7 +8,10 @@
 
 ## Webの`gitbook.com`と同期したり、ローカルに新規orインポートが選べる
 
+アプリの役割は大きく2つ。
 
+- gitbookプロジェクトのフロントエンド
+- `gitbook.com`との同期
 
 ![](gitbook_editor_local.jpg)
 
