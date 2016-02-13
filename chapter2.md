@@ -38,4 +38,6 @@
 * [チャプターを追加＆TOCのタイトルを変えたい](chapter2.md)
 ```
 
+よし、更新されたぞ。
+
 ![Update TOC](update_toc.jpg)
