@@ -23,7 +23,7 @@
 
 内容を確認する。
 
-```SUMMARY.md
+```markdown:SUMMARY.md
 # Summary
 
 * [First Chapter](chapter1.md)
