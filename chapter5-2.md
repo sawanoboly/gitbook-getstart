@@ -7,7 +7,7 @@
 
 ## 連携する意味を考える
 
-
+gitbookになくてgithubだけにあるもの、その1つはPull Request.
 
 
 ## Githubにエクスポートする
