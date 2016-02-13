@@ -13,3 +13,4 @@
 
 するとエディタ上のTOCには普通にそれらが現れた。
 
+![](new_chapter_without_file.jpg)
