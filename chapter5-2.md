@@ -7,7 +7,12 @@
 
 ## 連携する意味を考える
 
-gitbookになくてgithubだけにあるもの、その1つはPull Request.
+gitbookになくてgithubだけにあり、連携したほうが良い場合に使うもの。
+
+- Pull Request
+- gitリポジトリのViewer
+
+
 
 
 ## Githubにエクスポートする
