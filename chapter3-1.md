@@ -1,6 +1,6 @@
 # [子チャプターA]
 
-
+![](create_chapter3-1.jpg)
 
 
 ```
