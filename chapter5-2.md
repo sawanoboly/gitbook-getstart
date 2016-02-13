@@ -48,4 +48,6 @@ Githubのインポーターに遷移するので、項目を埋めてcloneしよ
 
 ![](gitbook_in-exp.jpg)
 
+このあとWebHookを作るように言われたので、URLをコピーしてGithub側にWebHookを作成。
+
 
