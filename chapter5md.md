@@ -13,4 +13,4 @@
 
 ## Githubにエクスポート&同期
 
-![](github_exporter.jpg)
+![](github_exporter2.jpg)
