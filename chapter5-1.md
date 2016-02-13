@@ -14,6 +14,8 @@
 
 まず初期画面。Webの`gitbook.com`と同期したり、ローカルに新規orインポートが選べるようだ。
 
+ローカルに新規作成できるのは、
+
 ![](gitbook_editor_local.jpg)
 
 
