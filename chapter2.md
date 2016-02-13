@@ -19,3 +19,10 @@
 
 ## SUMMARY.mdを編集する
 
+ファイル一覧を観察すると、`SUMMARY.md`というファイルがある。怪しい。
+
+```
+# Summary
+
+* [First Chapter](chapter1.md)
+```
