@@ -21,4 +21,4 @@ GitBookは
 ![GitBook Online Editor](gitbook_webeditor.jpg)
 
 
-このエディタはプレビューもできるし、ショートカットキー(OSXのデフォルトとかち合わないように結構配慮されている。)でMarkDownのsyntaxを挿入することもできる。
+このエディタはプレビューもできるし、ショートカットキー(OSXのデフォルトとかち合わないように結構配慮されている。)でMarkDownのsyntaxを挿入することもできた。
