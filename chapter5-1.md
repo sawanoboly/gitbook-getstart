@@ -6,7 +6,7 @@
 
 ローカルアプリはGithub連携ログイン、とはさすがにいかないようで、GitBookのパスワードを設定しておかないといけません。
 
-## ローカルに新規、`gitbook.com`から同期
+## `gitbook.com`と同期したり、ローカルに新規orインポートが選べる
 
 ![](gitbook_editor_local.jpg)
 ![](editor_diff.jpg)
