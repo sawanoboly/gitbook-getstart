@@ -87,4 +87,4 @@ Githubのインポーターに遷移するので、項目を埋めてcloneしよ
 
 `Publish`は押しても何も起こらなかった。。。かわりにメニューバーの`Book` => `push`でgithubにpushすることができたようだ。
 
-
+![](new_branch_gh.jpg)
