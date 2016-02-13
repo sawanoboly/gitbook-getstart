@@ -80,3 +80,5 @@ Githubのインポーターに遷移するので、項目を埋めてcloneしよ
 新しいブランチなので、`Sync`ではなく`Publish`というボタンになってるね。
 
 ![](new_branch.jpg)
+
+おしたら`git push origin pull_req`になるんだろう、押すぞ。
