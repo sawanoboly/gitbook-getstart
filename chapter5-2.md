@@ -19,6 +19,6 @@ Issueにあたるものは`gitbook.com`でもdiscussionがある
 
 ## Githubにエクスポートする
 
-
+設定画面からGithubの項目を選ぶと、エクスポートと連携設定ができる。ひとまずエクスポートだ。
 
 ![](github_impoter.jpg)
