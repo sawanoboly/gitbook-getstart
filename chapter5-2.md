@@ -14,7 +14,9 @@
 - リリース
 - マイルストーン
 
-Issueにあたるものは`gitbook.com`でもdiscussionがある
+※ Issueにあたるものは`gitbook.com`でもdiscussionがある
+
+
 
 
 ## Githubにエクスポートする
