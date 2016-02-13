@@ -29,5 +29,5 @@
 * [First Chapter](chapter1.md)
 ```
 
-おそらくGitBook上で公開する場合のTOCはこれが使われるのだと推測。編集しよう。
+おそらくGitBook上で公開する場合のTOCはこれが使われるのだと推測、編集しよう。
 
