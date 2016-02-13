@@ -6,5 +6,7 @@
 
 ローカルアプリはGithub連携ログイン、とはさすがにいかないようで、GitBookのパスワードを設定しておかないといけません。
 
+
+
 ![](gitbook_editor_local.jpg)
 ![](editor_diff.jpg)
