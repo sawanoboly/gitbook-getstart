@@ -8,11 +8,11 @@
 
 ## アプリの役割は大きく3つ。
 
-Webの`gitbook.com`と同期したり、ローカルに新規orインポートが選べるようだ。
-
 - gitbookプロジェクト管理のフロントエンド
 - `gitbook.com`との同期
 - Web版と同じエディタ
+
+まず初期画面。Webの`gitbook.com`と同期したり、ローカルに新規orインポートが選べるようだ。
 
 ![](gitbook_editor_local.jpg)
 
