@@ -53,3 +53,4 @@ Githubのインポーターに遷移するので、項目を埋めてcloneしよ
 
 ## その後、オンラインエディタが直接Githubを更新するようになる
 
+![](update_from_online_editor.jpg)
