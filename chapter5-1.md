@@ -5,3 +5,4 @@
 ![](Start_GitBook_Editor.jpg)
 
 ローカルアプリはGithub連携ログイン、とはさすがにいかないようで、GitBookのパスワードを設定しておかないといけません。
+
