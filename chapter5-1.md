@@ -9,4 +9,7 @@
 ## `gitbook.com`と同期したり、ローカルに新規orインポートが選べる
 
 ![](gitbook_editor_local.jpg)
+
+
+
 ![](editor_diff.jpg)
