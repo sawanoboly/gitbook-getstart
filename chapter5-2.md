@@ -25,6 +25,6 @@ Githubのインポーターに遷移するので、項目を埋めてcloneしよ
 
 ![](github_impoter.jpg)
 
-
+するとこのように、見慣れたGithubプロジェクトが完成する。
 
 ![](github_repo01.jpg)
